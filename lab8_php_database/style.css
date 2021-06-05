@@ -1,0 +1,28 @@
+/*design table 1*/
+.main {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+ 
+.main, th, td {
+    border: 1px solid #999;
+    padding: 8px 20px;
+}
+
+form label {
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 15px;
+}
+
+form input {
+    border:solid 1px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 200px;
+}
+
+.submit {
+    padding: 20px 20px;
+}
